@@ -10,7 +10,7 @@
 - (linus, Python]
 
 ## Current Projects
-- ### Google WorkSpace (link](https://github.com/OstohMichyy/useful-tools-for-students.git) — A reaserch on how **Google Workspace** is ideal in helping students studing AI
+- **Google WorkSpace** (https://github.com/OstohMichyy/useful-tools-for-students.git) — A reaserch on how *Google Workspace* is ideal in helping students studying **AI**
 
 ## How to Reach Me
 - Email: [collinsjuan1@gmail.com]
