@@ -6,8 +6,10 @@
 - I'm looking to collaborate on ["beginner-friendly open source projects"].
 
 ## Skills I'm Building
-- Git and GitHub
-- (linus, Python]
+- Logical Thinking
+- Problem Solving Mastery
+- Automation Skills
+- Creative Buiding skills
 
 ## Current Projects
 - **Google WorkSpace** (https://github.com/OstohMichyy/useful-tools-for-students.git) — A reaserch on how *Google Workspace* is ideal in helping students studying **AI**
