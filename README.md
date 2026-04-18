@@ -13,6 +13,7 @@
 
 ## Current Projects
 - **Google WorkSpace** (https://github.com/OstohMichyy/useful-tools-for-students.git) — A reaserch on how *Google Workspace* is ideal in helping students studying **AI**
+- **AI Automation** (https://github.com/21532025-art/wca-ai-report-summariser-masterminds.git) - A project on *report summarization*
 
 ## How to Reach Me
 - Email: [collinsjuan1@gmail.com]
